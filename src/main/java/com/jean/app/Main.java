@@ -5,5 +5,9 @@ public class Main {
 	public boolean isTrue() {
 		return true;
 	}
+	
+	public static void main(String[] args) {
+		
+	}
 
 }
