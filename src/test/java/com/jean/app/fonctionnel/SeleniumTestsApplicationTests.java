@@ -1,4 +1,4 @@
-package com.jean.app;
+package com.jean.app.fonctionnel;
 
 import static org.junit.Assert.assertEquals;
 
